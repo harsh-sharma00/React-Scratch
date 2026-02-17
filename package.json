@@ -1,0 +1,19 @@
+{
+  "name": "react-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh-sharma00/React-Scratch.git"
+  },
+  "author": "harsh sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsh-sharma00/React-Scratch/issues"
+  },
+  "homepage": "https://github.com/harsh-sharma00/React-Scratch#readme"
+}
